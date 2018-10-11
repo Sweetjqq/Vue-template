@@ -9,10 +9,14 @@
 npm install
 
 # serve with hot reload at localhost:8080
-npm run dev
+npm run dev：sit
+npm run dev：uat
+npm run dev：pro
 
 # build for production with minification
-npm run build
+npm run build：sit
+npm run build：uat
+npm run build：pro
 
 # build for production and view the bundle analyzer report
 npm run build --report
