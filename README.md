@@ -1,4 +1,4 @@
-# xinpin
+# Vue+webpack搭建框架
 
 > A Vue.js project
 
