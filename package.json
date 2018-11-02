@@ -1,8 +1,8 @@
 {
-  "name": "xinpin",
+  "name": "Vue技术站",
   "version": "1.0.0",
   "description": "A Vue.js project",
-  "author": "pengzhongwei <zhongwei.peng@yzamc.com>",
+  "author": "sunhongchao <hongchao.sun@yzamc.com>",
   "private": true,
   "scripts": {
     "dev:sit": "set NODE_ENV=sit && webpack-dev-server --inline --progress --open --watch --config build/webpack.dev.conf.js",
